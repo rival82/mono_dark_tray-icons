@@ -5,4 +5,5 @@ to install telegram tray icons copy into /home/user/.TelegramDesktop/tdata/ticon
 
 to install guake icon use sudo to copy into /usr/share/pixmaps/guake
 
+pidgin icons coming soon, if i start using it again
 
